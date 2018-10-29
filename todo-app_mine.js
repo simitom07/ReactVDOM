@@ -177,7 +177,7 @@ let newElement = (
   </div>
 );
 
-//TinyReact.render(<WishList />, root);
+TinyReact.render(<WishList />, root);
 
 // TinyReact.render(newElement, root);
 
